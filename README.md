@@ -9,9 +9,9 @@ To install the required dependencies, run the following command:<br>
 
 <br><br>
 Usage<br>
-The code should be executed from the main.py file.<br>
+The code should be executed from the `main.py` file.<br>
 
-'''
+```
 aml_credit_risk_xai<br>
 ├── data<br>
 ├── models<br>
@@ -23,4 +23,4 @@ aml_credit_risk_xai<br>
 │   ├── dalex<br>
 │   └── eli5<br>
 └── Report<br>
-'''
+```
