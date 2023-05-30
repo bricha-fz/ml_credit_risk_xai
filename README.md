@@ -11,13 +11,16 @@ pip install -r requirements.txt
 Usage<br>
 The code should be executed from the main.py file.<br>
 
-aml_credit_scoring_xai<br>
-├───data<br>
-├───models<br>
-│   └───model_nn<br>
-│       ├───assets<br>
-│       └───variables<br>
-├───plots<br>
-├───results_xai<br>
-    ├───dalex<br>
-    └───eli5<br>
+'''
+aml_credit_risk_xai
+├───data
+├───models
+│   └───model_nn
+│       ├───assets
+│       └───variables
+├───plots
+├───results_xai
+    ├───dalex
+    └───eli5
+├───Report
+'''
